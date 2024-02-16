@@ -1,5 +1,5 @@
-from data_generators import (generate_random_user_name, generate_random_email,
-                             generate_random_six_symbols_password, generate_random_five_symbols_password)
+from helpers import (generate_random_user_name, generate_random_email,
+                     generate_random_six_symbols_password, generate_random_five_symbols_password)
 from locators import Locators
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait

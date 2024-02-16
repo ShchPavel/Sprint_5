@@ -1,4 +1,4 @@
-from data_generators import KNOWN_USER_EMAIL, KNOWN_USER_PASSWORD
+from data import KNOWN_USER_EMAIL, KNOWN_USER_PASSWORD
 from locators import Locators
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
